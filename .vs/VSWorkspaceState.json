@@ -2,15 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\project",
-    "\\project\\migrations",
-    "\\project\\src",
+    "\\project\\public",
+    "\\project\\public\\css",
+    "\\project\\public\\images",
+    "\\project\\src\\Controller",
     "\\project\\src\\Entity",
     "\\project\\src\\Repository",
-    "\\project\\templates\\layout",
-    "\\project\\templates\\login",
-    "\\vendor\\doctrine",
-    "\\vendor\\doctrine\\annotations"
+    "\\project\\templates"
   ],
-  "SelectedNode": "\\vendor",
+  "SelectedNode": "\\project\\public\\images\\logo.png",
   "PreviewInSolutionExplorer": false
 }
