@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\project",
+    "\\project\\migrations",
+    "\\project\\src",
+    "\\project\\src\\Entity",
+    "\\project\\src\\Repository",
+    "\\project\\templates\\layout",
+    "\\project\\templates\\login",
+    "\\vendor\\doctrine",
+    "\\vendor\\doctrine\\annotations"
+  ],
+  "SelectedNode": "\\vendor",
+  "PreviewInSolutionExplorer": false
+}
